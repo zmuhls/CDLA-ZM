@@ -3,7 +3,7 @@
 - Repository for exporting saved Reddit posts as CSV and HTML files — cloned of [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit)<br />
 
 ##### Notes / Directions: <br />
-###### See the README.md in export-saved-reddit for more detailed (1-4) instructions on how to export saved posts from Reddit
+###### See the README.md in export-saved-reddit for more detailed instructions
 
 1. To replicate, download [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit)
 2. Append your Reddit username, password, client ID, and client secret to AccountsDetails.py
