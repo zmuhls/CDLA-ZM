@@ -1,7 +1,7 @@
 # cdla-zm
 
-- Repository for exporting saved Reddit posts as CSV and HTML files
-- Clone of [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit)<br />
+- Forked repository for exporting saved Reddit posts as CSV and/or HTML files
+- Clone of Christopher Su's [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit)<br />
 
 ##### Notes / Directions: <br />
 1. To replicate, download [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit)
